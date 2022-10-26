@@ -1,0 +1,11 @@
+discord.py==2.0.1
+jsonschema==2.6.0
+youtube_dl==2021.6.6
+python-dotenv==0.15.0
+asyncio==3.4.3
+aiohttp==3.8.1
+async_timeout==4.0.0
+discord-py-slash-command==4.2.1
+beautifulsoup4==4.9.0
+discord-ui==5.1.6
+discord-py-interactions==4.3.4
